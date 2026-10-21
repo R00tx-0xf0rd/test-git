@@ -1,1 +1,3 @@
-print("Hello") 
+import this
+
+print("Hello")
